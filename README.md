@@ -79,26 +79,11 @@ Experiment Name: Write a program to display any number of digits using macro con
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 id="test-title">Lab Report (01) in PDF</h1>
+<h1 id="test-title">Lab Report in PDF</h1>
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Lab Report: <a href="Lab_01.pdf">Download PDF</a>.</p>
+        <p>Click here for Lab Report: <a href="Lab_Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
